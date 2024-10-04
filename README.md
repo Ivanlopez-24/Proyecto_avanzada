@@ -13,6 +13,7 @@ Processing payments and reservations.
 Sending notifications and confirmations.
 
 3. Components
+
 3.1 Front-End Interface
 The user interface includes:
 
@@ -20,6 +21,7 @@ Home screen: Displays the current movie listings.
 Movie details screen: Provides information about the movie, such as genre, synopsis, and available showtimes.
 Seat selection screen: Users can view a visual representation of the theater and choose available seats.
 Payment screen: Users enter their payment details to complete the reservation.
+
 3.2 Back-End Functionality
 The back-end processes include:
 
@@ -30,11 +32,13 @@ Payment system: Integrating a payment gateway to handle transactions securely.
 Notifications: Sending confirmation emails or notifications for successful reservations and payments.
 
 4. Processes
+
 4.1 User Interaction Flow
 Users open the application, view the movie listings, and select a movie.
 After selecting a movie, users choose a showtime and theater seats.
 The system updates seat availability and creates a reservation once payment is confirmed.
 Users receive a confirmation of their booking via email or in-app notification.
+
 4.2 Admin Features
 Administrators have the ability to manage the content shown to users:
 
